@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import WhoPaysApp from './components/WhoPaysApp';
+// import MyApp from './components/MyApp';
 import 'normalize.css/normalize.css'; // css reset makes sure all browsers starting from the same place
 import './styles/styles.scss';
 
